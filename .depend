@@ -1,0 +1,2 @@
+main.o: main.cpp
+statement.o: statement.cpp statement.h
